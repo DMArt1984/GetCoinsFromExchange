@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Coins>
+<Coin name="BTC" date="01.01.2017 16:00:01" see="1">Desc text2</Coin>
+<Coin name="BNB" date="02.01.2017 11:00:07" see="1">Desc text1</Coin>
+<Coin name="ETH" date="03.03.2017 16:30:07" see="1">Desc text3</Coin>
+<Coin name="USDT" date="04.03.2017 16:30:07" see="1">Desc text4</Coin>
+  </Coins>
